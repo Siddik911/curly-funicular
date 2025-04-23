@@ -10,10 +10,8 @@
 
 ## Feature Demonstration
 
-<video width="640" height="360" controls>
-    <source src="https://github.com/Siddik911/curly-funicular/raw/master/vs.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+[![Feature Thumbnail](https://github.com/Siddik911/curly-funicular/raw/master/path/to/thumbnail.png)](https://github.com/Siddik911/curly-funicular/raw/master/vs.mp4)
+
 
 Above: A video demonstrating Feature X in action.
 
