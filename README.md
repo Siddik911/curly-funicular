@@ -10,7 +10,10 @@
 
 ## Feature Demonstration
 
-[![Feature Thumbnail](https://github.com/Siddik911/curly-funicular/raw/master/path/to/thumbnail.png)](https://github.com/Siddik911/curly-funicular/raw/master/vs.mp4)
+![Feature GIF](https://github.com/Siddik911/curly-funicular/raw/master/Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
+
+Above: A GIF demonstrating Feature X in action.
+
 
 
 Above: A video demonstrating Feature X in action.
