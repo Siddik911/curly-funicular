@@ -1,12 +1,10 @@
 # jumpToBlocks
 
-`jumpToBlocks` is a Visual Studio Code extension designed to [briefly describe what the extension does]. It helps users [describe the problem the extension solves or the functionality it provides].
+`jumpToBlocks` is a Visual Studio Code extension designed to jump among curly braces. It helps users navigate easily.
 
 ## Features
 
-- **Feature 1**: Explain a key feature of the extension.
-- **Feature 2**: Another feature and its functionality.
-- **Feature 3**: Additional features if applicable.
+- **Feature 1**: switch between code block.
 
 ## Feature Demonstration
 
@@ -14,15 +12,11 @@
 
 Above: A GIF demonstrating Feature X in action.
 
-
-
-Above: A video demonstrating Feature X in action.
-
 ## Requirements
 
 This extension requires:
 
-- Visual Studio Code version 1.x or above.
+- Visual Studio Code version.
 - Node.js (if you are developing or building the extension).
 
 ## Extension Settings
