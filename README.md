@@ -11,7 +11,7 @@
 ## Feature Demonstration
 
 <video width="640" height="360" controls>
-    <source src="file:///E:/jumpToBlocks/vs.mp4" type="video/mp4">
+    <source src="https://github.com/Siddik911/curly-funicular/raw/master/vs.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
