@@ -1,71 +1,86 @@
-# jumpToBlocks README
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jumpToBlocks README</title>
+</head>
+<body>
+    <h1>jumpToBlocks</h1>
+    <p><em>jumpToBlocks</em> is a Visual Studio Code extension designed to [briefly describe what the extension does]. It helps users [describe the problem the extension solves or the functionality it provides].</p>
 
-This is the README for your extension "jumpToBlocks". After writing up a brief description, we recommend including the following sections.
+    <h2>Features</h2>
+    <ul>
+        <li><strong>Feature 1</strong>: Explain a key feature of the extension.</li>
+        <li><strong>Feature 2</strong>: Another feature and its functionality.</li>
+        <li><strong>Feature 3</strong>: Additional features if applicable.</li>
+    </ul>
 
-## Features
+    <!-- Video demonstration -->
+    <h3>Feature Demonstration</h3>
+    <video width="640" height="360" controls>
+        <source src="file:///E:/jumpToBlocks/vs.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <p><em>Above: A video demonstrating Feature X in action.</em></p>
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+    <h2>Requirements</h2>
+    <p>This extension requires:</p>
+    <ul>
+        <li>Visual Studio Code version 1.x or above.</li>
+        <li>Node.js (if you are developing or building the extension).</li>
+    </ul>
 
-For example if there is an image subfolder under your extension project workspace:
+    <h2>Extension Settings</h2>
+    <p>This extension contributes the following settings:</p>
+    <ul>
+        <li><strong>jumpToBlocks.enable</strong>: A boolean value to enable or disable the extension.</li>
+        <li><strong>jumpToBlocks.someSetting</strong>: Set this to <code>true</code> to enable a specific feature.</li>
+    </ul>
 
-\!\[feature X\]\(images/feature-x.png\)
+    <h2>Known Issues</h2>
+    <ul>
+        <li><strong>Issue 1</strong>: There may be occasional lag when opening large files.</li>
+        <li><strong>Issue 2</strong>: The extension may not support certain versions of VS Code.</li>
+        <li><strong>Issue 3</strong>: [Other known issue].</li>
+    </ul>
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+    <h2>Release Notes</h2>
+    <h3>1.0.0</h3>
+    <ul>
+        <li>Initial release of the extension, including basic functionality.</li>
+    </ul>
 
-## Requirements
+    <h3>1.0.1</h3>
+    <ul>
+        <li>Fixed minor bugs related to user interface rendering.</li>
+    </ul>
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+    <h3>1.1.0</h3>
+    <ul>
+        <li>Added support for new syntax highlighting features.</li>
+    </ul>
 
-## Extension Settings
+    <h2>Following extension guidelines</h2>
+    <p>Make sure to follow the Visual Studio Code extension guidelines to ensure the extension works well across different environments.</p>
+    <ul>
+        <li><a href="https://code.visualstudio.com/api/references/extension-guidelines" target="_blank">Extension Guidelines</a></li>
+    </ul>
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+    <h2>Working with Markdown</h2>
+    <p>You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:</p>
+    <ul>
+        <li>Split the editor (<code>Cmd+\</code> on macOS or <code>Ctrl+\</code> on Windows and Linux).</li>
+        <li>Toggle preview (<code>Shift+Cmd+V</code> on macOS or <code>Shift+Ctrl+V</code> on Windows and Linux).</li>
+        <li>Press <code>Ctrl+Space</code> (Windows, Linux, macOS) to see a list of Markdown snippets.</li>
+    </ul>
 
-For example:
+    <h2>For more information</h2>
+    <ul>
+        <li><a href="http://code.visualstudio.com/docs/languages/markdown" target="_blank">Visual Studio Code's Markdown Support</a></li>
+        <li><a href="https://help.github.com/articles/markdown-basics/" target="_blank">Markdown Syntax Reference</a></li>
+    </ul>
 
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+    <p><strong>Enjoy!</strong></p>
+</body>
+</html>
