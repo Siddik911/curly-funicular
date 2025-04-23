@@ -15,7 +15,7 @@
     Your browser does not support the video tag.
 </video>
 
-Above: A video demonstrating Feature X in action.
+Above: A video demonstrating Feature in action.
 
 ## Requirements
 
